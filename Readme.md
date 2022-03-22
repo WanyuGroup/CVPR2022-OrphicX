@@ -1,9 +1,7 @@
 
 # OrphicX
 ## This repo covers the implementation for our paper OrphicX.
-Wanyu Lin, Hao Lan, Hao Wang and Baochun Li. "[OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks
-
-] in the Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022), New Orleans, Louisiana, June 19-24, 2022.
+Wanyu Lin, Hao Lan, Hao Wang and Baochun Li. "[OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks]()," in the Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022), New Orleans, Louisiana, June 19-24, 2022.
  
 ## Prepare Python environment
 ```
